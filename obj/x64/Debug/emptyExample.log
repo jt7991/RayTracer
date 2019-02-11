@@ -1,0 +1,20 @@
+﻿  ofApp.cpp
+c:\users\jacob\source\repos\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jacob\source\repos\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jacob\source\repos\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jacob\source\repos\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jacob\source\repos\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jacob\source\repos\openframeworks\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+     Creating library bin\RayTracer_00_debug.lib and object bin\RayTracer_00_debug.exp
+  emptyExample.vcxproj -> C:\Users\Jacob\source\repos\OpenFrameworks\apps\myApps\RayTracer_00\bin\RayTracer_00_debug.exe
+  
+  	                   2	C:\Users\Jacob\source\repos\OpenFrameworks\libs\fmodex\lib\vs\x64\
+  	  *EXTRA File 		 1266176	C:\Users\Jacob\source\repos\OpenFrameworks\apps\myApps\RayTracer_00\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Users\Jacob\source\repos\OpenFrameworks\apps\myApps\RayTracer_00\bin\fmodexL.dll
+  	  *EXTRA File 		 6942208	C:\Users\Jacob\source\repos\OpenFrameworks\apps\myApps\RayTracer_00\bin\FreeImage.dll
+  
+  	                   1	C:\Users\Jacob\source\repos\OpenFrameworks\libs\FreeImage\lib\vs\x64\
+  	  *EXTRA File 		 1266176	C:\Users\Jacob\source\repos\OpenFrameworks\apps\myApps\RayTracer_00\bin\fmodex.dll
+  	  *EXTRA File 		 1503232	C:\Users\Jacob\source\repos\OpenFrameworks\apps\myApps\RayTracer_00\bin\fmodex64.dll
+  	  *EXTRA File 		 1312768	C:\Users\Jacob\source\repos\OpenFrameworks\apps\myApps\RayTracer_00\bin\fmodexL.dll
+  	  *EXTRA File 		 1552384	C:\Users\Jacob\source\repos\OpenFrameworks\apps\myApps\RayTracer_00\bin\fmodexL64.dll

@@ -1,0 +1,13 @@
+﻿  main.cpp
+  ofApp.cpp
+     Creating library bin\RayTracer_00_debug.lib and object bin\RayTracer_00_debug.exp
+  emptyExample.vcxproj -> C:\Users\Jacob\source\repos\OpenFrameworks\apps\myApps\RayTracer_00\bin\RayTracer_00_debug.exe
+  
+  	                   2	C:\Users\Jacob\source\repos\OpenFrameworks\libs\fmodex\lib\vs\Win32\
+  	    New File  		 1266176	C:\Users\Jacob\source\repos\OpenFrameworks\libs\fmodex\lib\vs\Win32\fmodex.dll
+  	    New File  		 1312768	C:\Users\Jacob\source\repos\OpenFrameworks\libs\fmodex\lib\vs\Win32\fmodexL.dll
+  
+  	                   1	C:\Users\Jacob\source\repos\OpenFrameworks\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	C:\Users\Jacob\source\repos\OpenFrameworks\apps\myApps\RayTracer_00\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Users\Jacob\source\repos\OpenFrameworks\apps\myApps\RayTracer_00\bin\fmodexL.dll
+  	    New File  		 6018560	C:\Users\Jacob\source\repos\OpenFrameworks\libs\FreeImage\lib\vs\Win32\FreeImage.dll
